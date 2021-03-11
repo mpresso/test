@@ -1,3 +1,5 @@
 Nuevo Archivo Repo New_1.txt
 
 Creado remoto
+
+modificacion local que quiero ignorar
